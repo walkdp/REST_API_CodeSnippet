@@ -1,0 +1,23 @@
+Packages needs to Install for REST APIs.
+
+#express: Web framework for node. 
+
+#cors: Block the HTTP request coming from other domain.
+        Express allows you to configure and manage an HTTP server to access resources from the same domain.
+        For cross origin you need cors.
+#nodemon: We make some changes on our system and 
+          It helps to auto restart our server.
+          
+          
+          
+#morgan: It helps to generete request log into our conslole.
+
+#mongoose: Object Data Model (ODM) libary for MongoDb and Node.
+           It manages relationship between data and do required validations.
+           
+#dotenv: It allow to seperate secrete from your source code.
+
+#jsonwebtoken: Used to send information that can be varified and trusted by means trusted signiture.
+
+yarn add epress cors morgan mongoose dotenv jsonwebtoken
+
