@@ -19,5 +19,5 @@ Packages needs to Install for REST APIs.
 
 #jsonwebtoken: Used to send information that can be varified and trusted by means trusted signiture.
 
-yarn add epress cors morgan mongoose dotenv jsonwebtoken
+yarn add express cors morgan mongoose dotenv jsonwebtoken
 
