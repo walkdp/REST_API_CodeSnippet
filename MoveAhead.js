@@ -55,6 +55,11 @@ Right way to learn the things: Do not see the videos and do copy their way of co
 Select the single project and do, you start to do......
 While doing you have to know nothing about that just do and awake how the things are going. Do focus on that.
 
+The way to clear any problem is work on that....
+Mind seeks way to get things done......
+
+
+
 
 
 
